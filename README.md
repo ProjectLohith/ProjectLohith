@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on **Java Spring Boot** projects and building scalable backend APIs.
 
-🧠 I've also worked on **Generative AI** and **Autonomous Agents**, and I'm passionate about applying AI to real-world use cases.
+🧠 I've also worked on **Generative AI** and **Agents**, and I'm passionate about applying AI to real-world use cases.
 
 👯 I’m looking to collaborate on:
 - Open-source projects related to Java, Spring Boot, or AI
